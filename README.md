@@ -2,7 +2,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Yesenia Isamar Munguia Silva [l23212217@tijuana.tecnm.mx]
+Yesenia Isamar Munguia Silva 23212217 [l23212217@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
