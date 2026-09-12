@@ -1,5 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212217-code/MSFP0)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yeseniamunguia/MSFP0)
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
